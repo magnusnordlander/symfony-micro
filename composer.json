@@ -1,4 +1,6 @@
 {
+    "name": "magnusnordlander/symfony-micro",
+    "description": "The unofficial \"Symfony Micro Edition\" distribution",
     "autoload": {
         "psr-0": { "": "src/" }
     },
