@@ -8,8 +8,8 @@
         "php": ">=5.3.3",
         "symfony/symfony": "2.1.*",
         "twig/extensions": "dev-master",
-        "symfony/monolog-bundle": "dev-master",
-        "sensio/distribution-bundle": "dev-master"
+        "symfony/monolog-bundle": "2.1.*",
+        "sensio/distribution-bundle": "2.1.*"
     },
     "scripts": {
         "post-install-cmd": [
